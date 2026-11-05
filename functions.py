@@ -24,3 +24,10 @@ def keyval(**kwargs):
     print(kwargs["lastName"])
 
 keyval(name="siddhant",lastName="kumar")
+
+a = lambda x,y : x+y
+print(a(5,6))
+
+b = lambda : print("hello world")
+
+b()
