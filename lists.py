@@ -14,3 +14,6 @@ reversed.reverse()
 reversed="".join(reversed)
 print(reversed)
 print(name[::-1])
+
+lists.append("helloZara")
+print(lists)
