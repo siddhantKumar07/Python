@@ -1,3 +1,3 @@
-dict:{
-    "name": "dict",
+dic:{
+    "name": "siddhant",
 }
